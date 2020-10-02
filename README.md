@@ -5,6 +5,8 @@ The data structures necessary to support link submissions and commenting on Redd
 
 ![screenshot](./app/assets/images/entity_relationship.png)
 
+![screenshot](./app/assets/images/ss1.png)
+
 ## Built With
 
 - Ruby on Rails
